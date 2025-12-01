@@ -110,13 +110,16 @@ Python utilities for finding and analyzing patterns in sequential data.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zetroretron&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<!-- GitHub Stats - may take a moment to load -->
+<img src="https://github-readme-stats.vercel.app/api?username=zetroretron&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zetroretron&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetroretron&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zetroretron&theme=radical&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=zetroretron&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
+> **Note**: Stats widgets are provided by external services and may take a moment to load. If they don't appear immediately, refresh the page or check back later.
 
 ---
 

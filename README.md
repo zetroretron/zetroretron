@@ -11,6 +11,10 @@
 [![AI/ML](https://img.shields.io/badge/AI%2FML-Specialist-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
+
+
+
+
 </div>
 
 ---
@@ -248,6 +252,8 @@ print(journey.get_elevator_pitch())
 ```
 
 ---
+
+https://github.com/user-attachments/assets/f9d70747-6e7a-4f88-b746-6fd01155dd08
 
 ## 💼 Internship & Opportunities
 

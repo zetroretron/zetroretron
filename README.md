@@ -1,6 +1,6 @@
 # Devansh Tripathi
 
-**AI/ML Engineer** — Building intelligent systems & production-ready applications
+**AI/ML Engineer** building intelligent systems and production-ready applications.
 
 [LinkedIn](https://linkedin.com/in/devansh-tripathi) · [Email](mailto:gitternat2331@gmail.com)
 
@@ -9,37 +9,39 @@
 ## Featured Projects
 
 ### [CourseMera](https://github.com/zetroretron/coursemera)
-Desktop learning platform for video courses. Netflix-like UX with progress tracking, subtitles, and theater mode.  
+Desktop learning platform for video courses with Netflix-like UX, progress tracking, subtitles, and theater mode.  
 **Tech:** Electron · JavaScript · Express · ffprobe | **8 versions shipped**
 
 ### [LLM Quiz Solver](https://github.com/zetroretron/llm-quiz-solver)
-Autonomous AI agent that solves data analysis quizzes using GPT-4 and browser automation.  
+Autonomous AI agent that solves data analysis quizzes using a handler registry architecture with heuristic-first approach to minimize LLM API usage.  
 **Tech:** FastAPI · OpenAI · Playwright · Docker
 
 ### [SpikeGuard](https://github.com/zetroretron/SpikeGuard)
-Energy-efficient Spiking Neural Network framework for tamper-resilient wildlife camera-trap monitoring.  
-**Tech:** PyTorch · SpikingJelly · ONNX · Streamlit | **Research-grade**
+Energy-efficient Spiking Neural Network framework for tamper-resilient wildlife camera-trap monitoring, achieving reduced spike counts while maintaining accuracy under perturbations.  
+**Tech:** PyTorch · SpikingJelly · ONNX · Streamlit
 
 ### [Document Scanner](https://github.com/zetroretron/document-scanner)
-OpenCV-powered document scanning pipeline with perspective correction and 3 enhancement modes.  
+OpenCV-powered document scanning pipeline with perspective correction and three enhancement modes (BW, color, sharp).  
 **Tech:** Python · OpenCV · NumPy
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python · JavaScript · SQL · Bash  
-**AI/ML:** PyTorch · TensorFlow · OpenAI · Scikit-learn · SpikingJelly  
-**Backend:** FastAPI · Flask · Express · Node.js  
-**Frontend:** Electron · CustomTkinter · Bootstrap  
-**DevOps:** Docker · GitHub Actions · AWS · GCP  
-**Data:** Pandas · NumPy · PostgreSQL · SQLite
+**Languages:** Python, JavaScript, SQL, Bash  
+**AI/ML:** PyTorch, TensorFlow (research prototypes), OpenAI API, Scikit-learn, SpikingJelly  
+**Backend:** FastAPI, Flask, Express, Node.js  
+**Frontend:** Electron, CustomTkinter, Bootstrap  
+**DevOps:** Docker, GitHub Actions  
+**Data:** Pandas, NumPy, PostgreSQL, SQLite
+
+*Note: Specific technologies applied contextually across projects as documented in respective repositories.*
 
 ---
 
 ## Education
 
-- **B.Tech CSE (AI/ML)** — VIT Bhopal (2023–2027)
+- **B.Tech CSE (AI/ML)** — VIT Bhopal (2023–2027)  
 - **BS Data Science** — IIT Madras (Diploma Level, In Progress)
 
 ---
@@ -60,7 +62,9 @@ OpenCV-powered document scanning pipeline with perspective correction and 3 enha
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zetroretron&theme=react-dark&hide_border=true&area=true&v=2)
+<!-- ACTIVITY:START -->
+
+<!-- ACTIVITY:END -->
 
 </div>
 

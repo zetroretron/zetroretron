@@ -1,4 +1,4 @@
-# Devansh Tripathi
+﻿# Devansh Tripathi
 
 **AI/ML Engineer** building intelligent systems and production-ready applications.
 
@@ -29,13 +29,11 @@ OpenCV-powered document scanning pipeline with perspective correction and three 
 ## Tech Stack
 
 **Languages:** Python, JavaScript, SQL, Bash  
-**AI/ML:** PyTorch, TensorFlow (research prototypes), OpenAI API, Scikit-learn, SpikingJelly  
+**AI/ML:** PyTorch, TensorFlow (research), OpenAI API, Scikit-learn, SpikingJelly  
 **Backend:** FastAPI, Flask, Express, Node.js  
 **Frontend:** Electron, CustomTkinter, Bootstrap  
 **DevOps:** Docker, GitHub Actions  
 **Data:** Pandas, NumPy, PostgreSQL, SQLite
-
-*Note: Specific technologies applied contextually across projects as documented in respective repositories.*
 
 ---
 
@@ -74,4 +72,4 @@ OpenCV-powered document scanning pipeline with perspective correction and three 
 
 [GitHub](https://github.com/zetroretron) · [Email](mailto:gitternat2331@gmail.com)
 
-> *"Building intelligent systems, one commit at a time."*
+> *"Building intelligent systems, one commit at a time."

@@ -48,8 +48,6 @@ OpenCV-powered document scanning pipeline with perspective correction and three 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zetroretron&show_icons=true&theme=radical&hide_border=true&count_private=true&v=2" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zetroretron&layout=compact&theme=radical&hide_border=true&v=2" alt="Top Languages" />
 <img src="https://streak-stats.demolab.com/?user=zetroretron&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
 
 </div>

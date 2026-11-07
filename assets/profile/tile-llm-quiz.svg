@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="423" height="192" viewBox="0 0 423 192" role="img" aria-label="LLM Quiz Solver: Autonomous AI agent solving data analysis quizzes using heuristic registry architecture.">
+  <title>LLM Quiz Solver</title>
+  <defs>
+    <clipPath id="cardClip_LLMQuizSolver">
+      <rect width="413" height="188" rx="14"/>
+    </clipPath>
+    <linearGradient id="glow_LLMQuizSolver" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" stop-opacity="0.22"/>
+      <stop offset="50%" stop-color="#10b981" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#0e0e0e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+  </style>
+  <g transform="translate(5, 2)" clip-path="url(#cardClip_LLMQuizSolver)">
+    <!-- Card Background -->
+    <rect width="413" height="188" fill="#14191e" stroke="#27303a" stroke-width="1.2" rx="14"/>
+    <rect width="413" height="188" fill="url(#glow_LLMQuizSolver)"/>
+
+    <!-- Subtle Accent Radial Blur -->
+    <circle cx="383" cy="30" r="50" fill="#10b981" opacity="0.12"/>
+
+    <!-- Tag Badge -->
+    <rect x="22" y="22" width="88" height="22" rx="11" fill="#1a2026" stroke="#27303a" stroke-width="1"/>
+    <text x="30" y="37" font-size="11" fill="#8b949e">Agentic AI</text>
+
+    <!-- Star / Featured Badge -->
+    <g transform="translate(331, 24)">
+      <polygon points="6,0 7.8,3.8 12,4.4 9,7.3 9.7,11.5 6,9.5 2.3,11.5 3,7.3 0,4.4 4.2,3.8" fill="#eab308"/>
+      <text x="16" y="10" font-size="11.5" fill="#e6edf3" font-weight="600">Featured</text>
+    </g>
+
+    <!-- Title & Description -->
+    <text x="22" y="82" font-size="18" font-weight="700" fill="#e6edf3">LLM Quiz Solver</text>
+    <text x="22" y="108" font-size="12.5" fill="#8b949e">
+      <tspan x="22" dy="0">Autonomous AI agent solving data analysis quizze</tspan>
+      <tspan x="22" dy="18">s using heuristic registry architecture.</tspan>
+    </text>
+
+    <!-- Tech Stack Label -->
+    <text x="22" y="152" font-size="11" fill="#10b981">[ FastAPI · LangChain · OpenAI · Docker ]</text>
+
+    <!-- Bottom border subtle divider -->
+    <line x1="22" y1="166" x2="391" y2="166" stroke="#27303a" stroke-width="1"/>
+    <text x="22" y="180" font-size="10.5" fill="#656f7d">view repository →</text>
+  </g>
+</svg>
